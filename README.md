@@ -12,7 +12,7 @@ The repository includes training and testing files for this architecture and a d
 
 #### Architecture 2  
 The second architecture combines two single-task models, both based on the CaffeNet model.  
-This architecture is an adaptation of an existing project ([https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python](https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python)), which uses CaffeNet networks for age and gender recognition. The repository includes a testing file and a folder containing the files required to load the models.  
+This architecture is an adaptation of an existing project ([https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python](https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python)), which uses CaffeNet networks for age and gender recognition. The repository includes a testing file and below there is the link to the google drive folder containg the file to upload the models.  
 
 #### Models:
 Link to the drive containg all the models [here](https://drive.google.com/drive/folders/1B7CdAvMD1SOc_C_a3bgjrfsugmB9ZClx?usp=drive_link).
