@@ -18,4 +18,9 @@ This architecture is an adaptation of an existing project ([https://github.com/M
 #### Testing  
 The UTKFace dataset was split into training, validation, and testing sets with percentages of 70%, 10%, and 20% respectively. Both models were tested on the same test set using different metrics for each task. The results can be found in the project report.  
 
-##### Credits:
+## Credits
+
+- **FaceNet:** Model developed by Google. For more information, visit [FaceNet GitHub repository](https://github.com/davidsandberg/facenet).  
+- **UTKFace Dataset:** A large-scale dataset for age, gender, and ethnicity recognition tasks. For more information, see [UTKFace dataset page](https://susanqq.github.io/UTKFace/).  
+- **CaffeNet:** Neural network based on Caffe. Original project used from [GitHub repository](https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python).
+
