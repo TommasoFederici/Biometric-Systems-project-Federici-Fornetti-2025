@@ -20,6 +20,6 @@ The UTKFace dataset was split into training, validation, and testing sets with p
 
 ## Credits
 
-- **FaceNet:** Model developed by Google. For more information, visit [FaceNet GitHub repository](https://github.com/davidsandberg/facenet).  
+- **FaceNet:** Model developed by [Google](https://en.wikipedia.org/wiki/FaceNet).  
 - **UTKFace Dataset:** A large-scale dataset for age, gender, and ethnicity recognition tasks. For more information, see [UTKFace dataset page](https://susanqq.github.io/UTKFace/).  
 - **CaffeNet:** Neural network based on Caffe, framework developed by [BAIR](https://bair.berkeley.edu/).
