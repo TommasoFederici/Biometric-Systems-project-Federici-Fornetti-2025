@@ -14,6 +14,9 @@ The repository includes training and testing files for this architecture and the
 The second architecture combines two single-task models, both based on the CaffeNet model.  
 This architecture is an adaptation of an existing project ([https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python](https://github.com/MohammedNayeem9/Age-and-Gender-Detection-using-OpenCV-in-Python)), which uses CaffeNet networks for age and gender recognition. The repository includes a testing file and a folder containing the files required to load the models.  
 
+#### Models:
+Link to the drive containg all the models [here](https://drive.google.com/drive/folders/1B7CdAvMD1SOc_C_a3bgjrfsugmB9ZClx?usp=drive_link).
+
 #### Testing  
 The UTKFace dataset was split into training, validation, and testing sets with percentages of 70%, 10%, and 20% respectively. Both models were tested on the same test set using different metrics for each task. The results can be found in the project report.  
 
